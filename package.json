@@ -1,0 +1,24 @@
+{
+  "name": "ngjs-auth0-spa",
+  "version": "1.0.0",
+  "description": "An AngularJS wrapper service for the auth0-spa-js module",
+  "main": "ngjs-auth0-spa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reh-imt/ngjs-auth0-spa.git"
+  },
+  "keywords": [
+    "Auth0",
+    "spa",
+    "AngularJS"
+  ],
+  "author": "Roan Horning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reh-imt/ngjs-auth0-spa/issues"
+  },
+  "homepage": "https://github.com/reh-imt/ngjs-auth0-spa#readme"
+}
