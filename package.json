@@ -1,6 +1,6 @@
 {
   "name": "ngjs-auth0-spa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An AngularJS wrapper service for the auth0-spa-js module",
   "main": "ngjs-auth0-spa.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/reh-imt/ngjs-auth0-spa/issues"
   },
-  "homepage": "https://github.com/reh-imt/ngjs-auth0-spa#readme"
+  "homepage": "https://github.com/reh-imt/ngjs-auth0-spa#readme",
+  "dependencies": {
+    "@auth0/auth0-spa-js": "^1.19.3"
+  }
 }
